@@ -1,0 +1,13 @@
+string name
+int32 x
+int32 y
+---
+string obj_frame
+float32 obj_angle_horizontal
+float32 obj_angle_vertical
+int32 obj_pixel_x
+int32 obj_pixel_y
+float32 obj_meter_x
+float32 obj_meter_y
+float32 obj_meter_z
+float32 obj_meter_depth

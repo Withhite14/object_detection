@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/knp/skuba_athome/src/darknet/data/train-hand.txt
+valid  = /home/knp/skuba_athome/src/darknet/data/train-hand.txt
+names = /home/knp/skuba_athome/src/darknet/data/hand.names
+backup = /home/knp/skuba_athome/src/darknet/backup/
+
